@@ -5,6 +5,9 @@
   "author": "Lee-DongWook",
   "license": "MIT",
   "repository": "https://github.com/Lee-Dongwook/chrome-memo",
+  "scripts": {
+    "build": "npx webpack --mode=development"
+  },
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
