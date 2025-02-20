@@ -1,5 +1,5 @@
 {
-  "manifest_version": "3",
+  "manifest_version": 3,
   "name": "Chrome Extension Memo",
   "version": "1.0.0",
   "permissions": ["storage", "activeTab", "scripting"],
